@@ -55,7 +55,7 @@ crud-php-simple/
 | الدور        | الاسم              | حساب GitHub                                              |
 | ------------ | ------------------ | -------------------------------------------------------- |
 | Owner        | يعقوب محمد الماطري | [@yaqob-M-almateri](https://github.com/yaqob-M-almateri) |
-| Collaborator | [ الماطري]         | [@username](https://github.com/al-materi)                |
+| Collaborator | [ الماطري]         | [@al-materi](https://github.com/al-materi)               |
 
 ---
 
