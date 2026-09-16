@@ -1,0 +1,34 @@
+# Environment variables
+
+.env
+.env.local
+.env.\*.local
+
+# IDE
+
+.vscode/
+.idea/
+\*.swp
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+\*.log
+
+# Database exports (sensitive)
+
+\*.sql
+
+# Node/PHP dependencies
+
+node_modules/
+vendor/
+
+# Backups
+
+_.bak
+_.backup
